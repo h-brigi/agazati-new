@@ -1,0 +1,30 @@
+div {
+	width: 200px;
+	height: 100px;
+	position: absolute;
+}
+
+.doboz1 {
+	background-color: blue;
+	z-index: 2;
+	text-align: center;
+}
+
+.doboz2 {
+	background-color: red;
+	left: 50px;
+	top: 50px;
+	z-index: 3;
+	text-align: center;
+
+
+}
+
+.doboz3 {
+	background-color: green;
+	left: 100px;
+	top: 100px;
+	z-index: 1;
+	text-align: center;
+}
+

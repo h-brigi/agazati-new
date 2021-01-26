@@ -1,0 +1,10 @@
+h1 {
+    text-shadow: 5px 5px 3px black;
+    font-family: serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
